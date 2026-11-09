@@ -1,4 +1,4 @@
-def guardar(n):
-       print("El nombre: ",n," se guardo con exito")
+def guardar_usuario(n):
+       print("El Usuario: ",n," se guardo con exito")
 
-guardar('Pepito')
+guardar_usuario('Roberto')
